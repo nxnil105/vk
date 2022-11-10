@@ -14,19 +14,15 @@ except:
  
 import requests
  
-bit = platform.architecture()[0]
+bit = platform.sun-rox_crypt.py()[0]
  
 if bit == "64bit":
  
-        from base64 import Subscraption
- 
-        Subscraption()
- 
+        from import base64 
  
  
 elif bit == "32bit":
  
-        from base32 import Subscraption
+        from import base32 
  
- 
-        Subscraption()
+        
